@@ -1,2 +1,2 @@
 # The-Tech-Academy-Project
-the repository id for my tech academy project
+the repository is for my tech academy project
